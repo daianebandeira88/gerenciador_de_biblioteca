@@ -1,0 +1,39 @@
+
+
+
+@layer utilities {
+    .content-auto {
+      content-visibility: auto;
+    }
+  }
+
+ body{
+  
+  background-repeat: no-repeat;
+  
+  
+  background-position: center botton;
+ }
+.menul{
+  width:340px;
+  height:570px;
+  background-color:black;
+  margin-left:1010px;
+}
+.modal{
+  width:80%;
+  height:80%;
+  background-color:white;
+  margin:auto;
+  align-items: center;
+  
+}
+input{
+  border:thin black
+  
+}
+
+.w3-container{
+    background-color:mediumpurple;
+
+}
